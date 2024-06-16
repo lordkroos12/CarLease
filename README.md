@@ -19,10 +19,12 @@
             Monthly Interest Rate: Derived from the annual interest rate divided by 12.
             Monthly Installment: Calculated using the annuity formula for amortizing loans.
             Total Leasing Cost: The sum of the total monthly installments and the down payment.
-        Then I added the event listeners that call the calculate function everytime data is changed and make sure that the range and number input fields are showing the same data and chaging one of them makes changes to the other one too.
+        Then I added the event listeners that call the calculate function everytime data is changed and make sure that
+        the range and number input fields are showing the same data and chaging one of them makes changes to the other one too.
         
 
     Error Handling:
-        After I made sure the calculation function was working I began working on the error handling which informs the user if he enters incorrect data by displaying red error message and making the border of the input field red.
+        After I made sure the calculation function was working I began working on the error handling which informs the user 
+        if he enters incorrect data by displaying red error message and making the border of the input field red.
     
       
